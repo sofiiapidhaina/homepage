@@ -1,4 +1,4 @@
-alert('no hey')
+
 const name = 'Sofia';
 const age = 16;
 
